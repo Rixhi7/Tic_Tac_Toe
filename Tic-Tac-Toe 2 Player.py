@@ -1,3 +1,5 @@
+£READ README FIRST
+
 import tkinter
 
 tictactoe=tkinter.Tk()
